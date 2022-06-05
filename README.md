@@ -1,3 +1,12 @@
 # Stepen_opasnosti_za_masine
 Algoritam masinskog ucenja koji predvidja stepen opasnosti za masine
-<button type="button">Click Me!</button>
+<html>
+<body>
+
+<h1>The button Element</h1>
+
+<button type="button" onclick="alert('Hello world!')">Click Me!</button>
+ 
+</body>
+</html>
+
